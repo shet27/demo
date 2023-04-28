@@ -3,6 +3,9 @@
 
 void main(){
 
-printf("hello world \n hai");
+printf("hello world");
+ //printing word in c
+ //hdsfbcuh
+printf("new line");
 
 }
